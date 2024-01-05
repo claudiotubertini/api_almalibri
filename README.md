@@ -8,7 +8,7 @@ Scaricate il file zip e decomprimetelo dove preferite, ad esempio sul desktop. L
 &nbsp;
 &nbsp;
 
-<img src="fig1.png" width="70%">
+<img src="fig1.png" width="70%">  
 _Fig. 1. Il file alma_api_click.zip è stato decompresso nella cartella alma_api_click. I file csv e json hanno come nome, in questo caso, la data in cui sono stati generati_ 
 &nbsp;
 &nbsp;
@@ -16,7 +16,7 @@ Da terminale dovrete lanciare il file `alma_api_click.exe`, in Ubuntu `alma_api`
 &nbsp;
 &nbsp;
 
-<img src="fig2.png" width="80%">
+<img src="fig2.png" width="80%">  
 &nbsp;
 &nbsp;
 _Fig. 2. L'help elenca le tre diverse funzionalità disponibili_
