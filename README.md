@@ -69,5 +69,6 @@ I comandi disponibili sono:
 
 ## Note per sviluppatori
 Il file `alma_api_click.py` è il file sorgente in python che fa uso del framework `click` per generare l'applicazione per il terminale. I file `.zip` sono file compilati e testati per macchine windows e Ubuntu 22.
+Infine `Le_API_Almalibri.pdf` contiene le indicazioni su come effettuare il collegamento alle API attraverso un'applicazione. Quella qui presentata ne costituisce appunto un esempio.  
 
 
