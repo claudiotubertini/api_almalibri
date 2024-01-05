@@ -1,6 +1,6 @@
 # ALMADATI Le API di Almalibri
 
-Applicazione per ricercare e scaricare records da terminale [download](https://github.com/claudiotubertini/api_almalibri/releases/tag/1.0.0), in formato `json` e `csv`, dalla banca dati [Almalibri](https://almalibri.it). L'accesso è riservato agli abbonati che al momento della sottoscrizione hanno comunicato il proprio indirizzo IP e alcuni campi facoltativi a cui sono interessati. Esistono, per ora, solo versioni Windows e Ubuntu 22 di questa applicazione. Chi fosse interessato ad altri sistemi operativi può comunicarcelo. La versione compilata comparirà in questa pagina.  
+Applicazione per ricercare e scaricare records da terminale [clicca qui per il download](https://github.com/claudiotubertini/api_almalibri/releases/tag/1.0.0), in formato `json` e `csv`, dalla banca dati [Almalibri](https://almalibri.it). L'accesso è riservato agli abbonati che al momento della sottoscrizione hanno comunicato il proprio indirizzo IP e alcuni campi facoltativi a cui sono interessati. Esistono, per ora, solo versioni Windows e Ubuntu 22 di questa applicazione. Chi fosse interessato ad altri sistemi operativi può comunicarcelo. La versione compilata comparirà in questa pagina.  
 &nbsp;
 &nbsp;
 Ecco un esempio di come sia possibile utilizzare l'applicazione.  
