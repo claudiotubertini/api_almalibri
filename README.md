@@ -65,4 +65,9 @@ I comandi disponibili sono:
 --titolo  
 --editore  
 --testo_obb  
---page`
+--page`  
+
+## Note per sviluppatori
+Il file `alma_api_click.py` è il file sorgente in python che fa uso del framework `click` per generare l'applicazione per il terminale. I file `.zip` sono file compilati e testati per macchine windows e Ubuntu 22.
+
+
