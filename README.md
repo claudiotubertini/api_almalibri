@@ -30,7 +30,7 @@ I comandi disponibili sono:
 - **programmi**  Scarica le bibliografie dei corsi di studio (sia i testi sia le eventuali annotazioni del docente) riportando anche il campo  ``insegnamento_id`` utile per il collegamento ai dati scaricati con il comando ``adozioni``. E' possibile specificare il nome del file (senza estensione); senza indicazione del nome del file verrà usata la data e l'ora del download. Le opzioni per selezionare i corsi sono le seguenti:
 
 ```
---uni_cod [required]  
+--uni_cod  
 --a_a [required]  
 --laurea_nome  
 --laurea_tipo  
@@ -52,7 +52,7 @@ I comandi disponibili sono:
 - **adozioni**  Scarica l'elenco delle adozioni delle università e dei corsi selezionati. E' possibile specificare il nome del file (senza estensione); senza indicazione del nome del file verrà usata la data e l'ora del download. Le opzioni per selezionare i corsi sono le seguenti:
 
 ```
---uni_cod  [required]  
+--uni_cod  
 --a_a [required]  
 --laurea_nome  
 --laurea_tipo  
