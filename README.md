@@ -26,7 +26,7 @@ _Fig. 2. L'help elenca le tre diverse funzionalità disponibili_
 &nbsp;
 I comandi disponibili sono:
 
-- **unicod**   Genera l'elenco delle università disponibili, con l'anno accademico dell'ultimo aggiornamento. Non vi sono opzioni aggiuntive.
+- **unicod**   Genera l'elenco delle università disponibili, con l'anno accademico della disponibilità in quel momento. Non vi sono opzioni aggiuntive. Gli aggiornamenti sono quotidiani e le università in aggiornamento sono momentaneamente non disponibili. E' consigliabile quindi controllare sempre la disponibilità delle università prima di procedere a un download. 
 - **programmi**  Scarica le bibliografie dei corsi di studio (sia i testi sia le eventuali annotazioni del docente) riportando anche il campo  ``insegnamento_id`` utile per il collegamento ai dati scaricati con il comando ``adozioni``. E' possibile specificare il nome del file (senza estensione); senza indicazione del nome del file verrà usata la data e l'ora del download. Le opzioni per selezionare i corsi sono le seguenti:
 
 ```
